@@ -1,0 +1,6 @@
+{
+  "name": "JAMBO FESTIVAL 2026",
+  "description": "Plateforme officielle de JAMBO Festival 2026 (3e édition) – Tourisme, culture, billetterie sécurisée avec QR Code, randonnée Amani Eco-Park et formations en RDC.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
